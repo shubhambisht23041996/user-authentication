@@ -1,17 +1,18 @@
 # user-authentication
 user authentication 
- This Is a Simple Django Login and Registration:
-
-
-
-
+   Django Login and Registration form:
 Functionality:
+
+
+      signup:
+         username
+         password
+         email
+         firstname
      
      
      Log in
         via username & password
-        via email & password
-        via email or username & password
         Create an account
         Log out
 
@@ -27,7 +28,7 @@ Apply migrations:
       python manage.py migrate
 
 Running
-A development server
-Just run this command:
+    A development server
+    Just run this command:
          
          python manage.py runserver
