@@ -1,10 +1,12 @@
 # user-authentication
 user authentication 
+   
    Django Login and Registration form:
+
+
 Functionality:
 
-
-      signup:
+     signup:
          username
          password
          email
@@ -20,7 +22,7 @@ Functionality:
 
 Installing:
          
-         git clone https://github.com/user-authentication/authprojecte
+         git clone https://github.com/user-authentication/authproject
           cd authproject
 
 Apply migrations:
@@ -29,6 +31,7 @@ Apply migrations:
 
 Running
     A development server
+    
     Just run this command:
          
          python manage.py runserver
