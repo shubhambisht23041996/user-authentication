@@ -6,7 +6,9 @@ user authentication
 
 
 Functionality:
-      Log in
+     
+     
+     Log in
         via username & password
         via email & password
         via email or username & password
